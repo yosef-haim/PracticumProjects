@@ -1,0 +1,2 @@
+# PracticumProjects
+List of projects
